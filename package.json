@@ -1,0 +1,16 @@
+{
+  "name": "level9-go-links-cf-worker",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Gabriel Mangiurea",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20230821.0",
+    "typescript": "^5.2.2"
+  }
+}
